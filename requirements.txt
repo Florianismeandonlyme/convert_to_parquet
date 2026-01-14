@@ -1,0 +1,5 @@
+pandas
+pyarrow
+openpyxl
+pyreadstat
+tkinter; platform_system == 'Windows'
